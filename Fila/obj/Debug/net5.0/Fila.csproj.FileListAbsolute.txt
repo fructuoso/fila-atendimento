@@ -19,7 +19,6 @@ C:\Users\victor.fructuoso\source\repos\Fila\Fila\obj\Debug\net5.0\Fila.csproj.Co
 C:\Users\victor.fructuoso\source\repos\Fila\Fila\obj\Debug\net5.0\Fila.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\victor.fructuoso\source\repos\Fila\Fila\obj\Debug\net5.0\Fila.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\victor.fructuoso\source\repos\Fila\Fila\obj\Debug\net5.0\staticwebassets\Fila.StaticWebAssets.Manifest.cache
-C:\Users\victor.fructuoso\source\repos\Fila\Fila\obj\Debug\net5.0\staticwebassets\Fila.StaticWebAssets.xml
 C:\Users\victor.fructuoso\source\repos\Fila\Fila\obj\Debug\net5.0\scopedcss\bundle\Fila.styles.css
 C:\Users\victor.fructuoso\source\repos\Fila\Fila\obj\Debug\net5.0\Fila.RazorTargetAssemblyInfo.cache
 C:\Users\victor.fructuoso\source\repos\Fila\Fila\obj\Debug\net5.0\Fila.csproj.CopyComplete
@@ -42,3 +41,5 @@ C:\Users\victor.fructuoso\source\repos\Fila\Fila\bin\Debug\net5.0\Microsoft.Exte
 C:\Users\victor.fructuoso\source\repos\Fila\Fila\bin\Debug\net5.0\MySqlConnector.dll
 C:\Users\victor.fructuoso\source\repos\Fila\Fila\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\victor.fructuoso\source\repos\Fila\Fila\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\victor.fructuoso\source\repos\Fila\Fila\bin\Debug\net5.0\Humanizer.dll
+C:\Users\victor.fructuoso\source\repos\Fila\Fila\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll

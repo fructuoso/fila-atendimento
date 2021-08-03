@@ -75,7 +75,7 @@ namespace Fila
 
             services.AddAuthorization(c => c.FallbackPolicy = new AuthorizationPolicyBuilder().RequireAuthenticatedUser().Build());
 
-            services.AddDbContext<FilaDbContext>(options => options.UseInMemoryDatabase("FILA_EM_MEMORIA"));
+            services.AddDbContext<FilaDbContext>();
 
             services.AddTransient<ITipoAtendimentoRepository, TipoAtendimentoRepository>();
             services.AddTransient<IAtendimentoRepository, AtendimentoRepository>();

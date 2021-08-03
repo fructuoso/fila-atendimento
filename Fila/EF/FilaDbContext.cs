@@ -16,5 +16,14 @@ namespace Fila.EF
         {
             modelBuilder.ApplyConfigurationsFromAssembly(GetType().Assembly);
         }
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            string connectionString = "Server=localhost;Database=FILA;Uid=root;Pwd=root;";
+
+            var serverVersion = ServerVersion.AutoDetect(connectionString);
+
+            optionsBuilder.UseMySql(connectionString, serverVersion);
+        }
     }
 }
